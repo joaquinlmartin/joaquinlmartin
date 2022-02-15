@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning React.js
-- man_technologist All of my projects are available at https://github.com/joaquinlmartin
+- 👯 All of my projects are available at https://github.com/joaquinlmartin
 - 📫 How to reach me: joaquinlmartin@gmail.com
 
 
