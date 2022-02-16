@@ -5,4 +5,4 @@
 - 📫 How to reach me: joaquinlmartin@gmail.com
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinlmartin&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinlmartin&show_icons=true&theme=tokyonight)
