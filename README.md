@@ -7,5 +7,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinlmartin&show_icons=true&theme=blue-green)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinlmartin)](https://github.com/joaquinlmartin/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaquinlmartin&repo=github-readme-stats)](https://github.com/joaquinlmartin/github-readme-stats)
