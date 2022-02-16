@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Joaquín!</h1>
-<h3 align="center">A passionate developer in Barcelona</h3>
+<h2 align="center">A passionate developer in Barcelona</h2>
 
 <h3> - 🌱 I’m currently learning React.js</h3>
 <h3> - 👯 All of my projects are available at https://github.com/joaquinlmartin</h3>
