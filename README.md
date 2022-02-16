@@ -9,8 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/joaquin-lopez-martin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joaquin-lopez-martin/" height="30" width="40" /></a>
-<a href="https://instagram.com/celinaclm2019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="celinaclm2019" height="30" width="40" /></a>
-<a href="https://discord.gg/Bastis#3937" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="Bastis#3937" height="30" width="40" /></a>
+<a href="https://instagram.com/bagaloxley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="joaquin" height="30" width="40" /></a>
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinlmartin&show_icons=true&theme=blue-green) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinlmartin&show_icons=true&theme=blue-green)](https://github.com/joaquinlmartin/github-readme-stats)
