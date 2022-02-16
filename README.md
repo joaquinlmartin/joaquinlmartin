@@ -1,4 +1,4 @@
-### Hi there 👋
+###<h1 align="center">Hi there 👋, I'm Joaquín!</h1>
 
 - 🌱 I’m currently learning React.js
 - 👯 All of my projects are available at https://github.com/joaquinlmartin
