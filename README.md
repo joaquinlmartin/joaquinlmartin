@@ -1,13 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Joaquín!</h1>
 <h2 align="center">A passionate developer in Barcelona</h2>
 
+<h3> - 🎓 I'm walking the extraordinary path of <a href="https://www.ironhack.com/en/web-development">Ironhack</a>, to become a MERN Full-Stack developer.</h3>
 <h3> - 🌱 I’m currently learning React.js</h3>
 <h3> - 👯 All of my projects are available at https://github.com/joaquinlmartin</h3>
 <h3> - 📫 How to reach me: joaquinlmartin@gmail.com</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/celina-lopez-martin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/celina-lopez-martin/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/joaquin-lopez-martin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joaquin-lopez-martin/" height="30" width="40" /></a>
 <a href="https://instagram.com/celinaclm2019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="celinaclm2019" height="30" width="40" /></a>
 <a href="https://discord.gg/Bastis#3937" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="Bastis#3937" height="30" width="40" /></a>
 </p>
