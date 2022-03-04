@@ -4,7 +4,7 @@
 <h3> - 🎓 I'm walking the extraordinary path of <a href="https://www.ironhack.com/en/web-development">Ironhack</a>, to become a MERN Full-Stack developer.</h3>
 <h3> - 🌱 I’m currently learning React.js</h3>
 <h3> - 👯 All of my projects are available at https://github.com/joaquinlmartin?tab=repositories</h3>
-<h3> - https://github.com/www.codewars.com/codewars-readme-stats"users/joaquinlmartin/badges/large
+<h3> - https://github-readme-codewars-stats.herokuapp.com/api/?username=joaquinlmartin&badge&colormode=dark_mode
 <h3> - 📫 How to reach me: <a href="mailto:joaquinlmartin@gmail.com" Subject="Something interesting">joaquinlmartin@gmail.com</a>
 
 <h3 align="left"> - 🌍 Connect with me:</h3>
