@@ -6,7 +6,7 @@
 <h3> - 👯 All of my projects are available at https://github.com/joaquinlmartin?tab=repositories</h3>
 <h3> - 📫 How to reach me: <a href="mailto:joaquinlmartin@gmail.com" Subject="Something interesting">joaquinlmartin@gmail.com</a>
 
-![](https://komarev.com/ghpvc/?joaquinlmartin)
+![](https://komarev.com/ghpvc/?username=joaquinlmartin)
   
 <h3 align="left"> - 🌍 Connect with me:</h3>
 </a><p align="left"><a href="https://www.linkedin.com/in/joaquin-lopez-martin/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/joaquin-lopez-martin/" height="30" width="40" /></a>
