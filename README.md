@@ -1,12 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Joaquín!</h1>
 <h2 align="center">A passionate developer in Barcelona</h2>
 
+![](https://komarev.com/ghpvc/?username=joaquinlmartin) 
+
 <h3> - 🎓 I'm walking the extraordinary path of <a href="https://www.ironhack.com/en/web-development">Ironhack</a>, to become a MERN Full-Stack developer.</h3>
 <h3> - 🌱 I’m currently learning React.js</h3>
 <h3> - 👯 All of my projects are available at https://github.com/joaquinlmartin?tab=repositories</h3>
 <h3> - 📫 How to reach me: <a href="mailto:joaquinlmartin@gmail.com" Subject="Something interesting">joaquinlmartin@gmail.com</a>
   
-<h3 align="left"> - 🌍 Connect with me:</h3> <h3 ![](https://komarev.com/ghpvc/?username=joaquinlmartin)</h3> 
+<h3 align="left"> - 🌍 Connect with me:</h3>
 </a><p align="left"><a href="https://www.linkedin.com/in/joaquin-lopez-martin/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/joaquin-lopez-martin/" height="30" width="40" /></a>
 <a href="https://instagram.com/bagaloxley" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png?20200512141346" alt="bagaloxley" height="30" width="40" /></a></p>
   
