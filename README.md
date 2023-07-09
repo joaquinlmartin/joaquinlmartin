@@ -3,7 +3,7 @@
 
 <h3> - 🎓 I've walked the extraordinary path of <a href="https://www.ironhack.com/en/web-development">Ironhack</a>, to become a MERN Full-Stack developer</h3>
 <h3> - 🎓 I have experienced the main fullstack web development bootcamp at Ironhack and other Bootcamps from Frontend-Vue to Backend-Java to master Javascript, React, Express, Node, Mongo, Vue, Java, Sql and other programming languages.</h3>
-/* <h3> - 🌱 I’m currently learning Angular.js</h3> */
+/--> <h3> - 🌱 I’m currently learning Angular.js</h3> <--/
 <h3> - 👯 All of my projects are available at https://github.com/joaquinlmartin?tab=repositories</h3>
 <h3> - 📫 How to reach me: <a href="mailto:joaquinlmartin@gmail.com" Subject="Something interesting">joaquinlmartin@gmail.com</a>
   
