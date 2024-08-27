@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Joaquín!</h1>
+<h1 align="center">Hi there 👋, I'm Joaquín!</h1> 
 <h2 align="center">A passionate developer in Barcelona</h2>
 
 <h3> - 🎓 I've walked the extraordinary path of <a href="https://www.ironhack.com/en/web-development">Ironhack</a>, to become a MERN Full-Stack developer</h3>
